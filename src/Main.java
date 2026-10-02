@@ -3,9 +3,9 @@ public class Main {
         
         Adder adder = new Adder();
         System.out.println(adder.add(1, 2));
-        
-        Subtractor subtractor = new Subtractor();
-        System.out.println(subtractor.subtract(6, 3));
+
+        Substractor subtractor = new Substractor();
+        System.out.println(subtractor.substract(6, 3));
 
     }
 }
