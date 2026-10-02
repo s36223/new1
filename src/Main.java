@@ -6,15 +6,6 @@ public class Main {
         
         Subtractor subtractor = new Subtractor();
         System.out.println(subtractor.subtract(6, 3));
-        3
-        4
-        5
-        6
-        7
-        8
-        Adder adder = new Adder();
-        System.out.println(adder.add(1, 2));
-        Subtractor subtractor = new Subtractor();
-        System.out.println(subtractor.subtract(6, 3));
+       
     }
 }
